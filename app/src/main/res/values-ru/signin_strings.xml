@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_invalid_email">Неправильная эл. почта</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_password">Неправильная эл. почта или пароль</string>
+    <string name="error_field_required">Необходимо заполнить</string>
+    <string name="signin_prompt">Пожалуйста, войдите в аккаунт чтобы выполнить эту операцию</string>
+    <string name="title_activity_login">Войти</string>
+</resources>

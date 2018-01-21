@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_recycle_venues">Recycle venues map</string>
+    <string name="kilometers">km</string>
+    <string name="venue_description">Description</string>
+    <string name="venue_name">Venue name</string>
+    <string name="venue_city">City</string>
+</resources>

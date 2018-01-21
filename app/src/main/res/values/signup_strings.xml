@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_signup_email">Email</string>
+    <string name="prompt_signup_full_name">First and Last name</string>
+    <string name="prompt_signup_password">Password</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="action_signup_short">Sign Up</string>
+    <string name="error_signup_invalid_email">Invalid email</string>
+    <string name="error_signup_invalid_password">Password is required</string>
+    <string name="error_signup_incorrect_password">Password is required</string>
+    <string name="error_signup_field_required">Field is required</string>
+    <string name="login_via_facebook">Sign In with Facebook</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+</resources>

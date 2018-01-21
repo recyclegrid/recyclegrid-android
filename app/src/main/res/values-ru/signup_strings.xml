@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_signup_email">Электронная пошта</string>
+    <string name="prompt_signup_full_name">Имя и фамилия</string>
+    <string name="prompt_signup_password">Пароль</string>
+    <string name="action_signup">Зарегистрироваться</string>
+    <string name="action_signup_short">Зарегистрироваться</string>
+    <string name="error_signup_invalid_email">Неправильная эл. почта</string>
+    <string name="error_signup_invalid_password">Пароль слишком короткий</string>
+    <string name="error_signup_incorrect_password">Пароль неправильный</string>
+    <string name="error_signup_field_required">Необходимо заполнить</string>
+    <string name="login_via_facebook">Войти через Facebook</string>
+    <string name="title_activity_sign_up">Зарегистрироваться</string>
+</resources>

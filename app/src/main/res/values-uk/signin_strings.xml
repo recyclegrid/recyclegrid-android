@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_email">Електронна пошта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Увійти</string>
+    <string name="action_sign_in_short">Увійти</string>
+    <string name="error_invalid_email">Невірна електронна пошта</string>
+    <string name="error_invalid_password">Пароль надто короткий</string>
+    <string name="error_incorrect_password">Пароль невірний</string>
+    <string name="error_field_required">Необхідно заповнити</string>
+    <string name="signin_prompt">Будь-ласка, увійдіть у свій обліковий запис щоб виконати цю операцію</string>
+    <string name="title_activity_login">Увійти</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="now">сейчас</string>
+    <string name="minute_ago">минуту назад</string>
+    <string name="minutes_ago">%1$d мин. назад</string>
+    <string name="hour_ago">час назад</string>
+    <string name="hours_ago">%1$d час. назад</string>
+    <string name="day_ago">вчера</string>
+    <string name="days_ago">%1$d дн. назад</string>
+    <string name="week_ago">неделю назад</string>
+    <string name="weeks_ago">%1$d недель назад</string>
+    <string name="month_ago">месяц назад</string>
+    <string name="months_ago">%1$d мес. назад</string>
+</resources>

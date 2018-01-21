@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_response_default">Could not process your request. Please check internet connection and try again.</string>
+    <string name="error_response_get_venues">Unable to get recycle venues.</string>
+</resources>

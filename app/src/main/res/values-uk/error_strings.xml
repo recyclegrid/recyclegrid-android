@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_response_default">Під час обробки запиту виникла помилка. Перевірте з\'єднання з інтернетом та спробуйте ще раз.</string>
+    <string name="error_response_get_venues">Не вдалося отримати пункти прийому</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_in_select_venue">Выберите пункт приема</string>
+    <string name="check_in_notification_title">%1$s сдал на переработку</string>
+    <string name="check_in_notification_content">%1$s сдал %2$s в %3$s</string>
+    <string name="check_in_comment">Расскажите больше...</string>
+    <string name="check_in_button_label">Переработка</string>
+</resources>

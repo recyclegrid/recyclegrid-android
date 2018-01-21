@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_maps_key" translatable="false">AIzaSyAtRJZgiWvKpVsHCPA0xRJD6k-g7KK0U5w</string>
+    <string name="ad_unit_id" translatable="false">ca-app-pub-3940256099942544/2793859312</string>
+    <string name="base_api_url" translatable="false">http://10.0.2.2:3655</string>
+    <string name="azure_storage_connection_string" translatable="false">DefaultEndpointsProtocol=https;AccountName=devrecyclegridstorage;AccountKey=CRpMsg2Fjoo6/bNJsxHMMJ/bAziBTqt27Gr+FmWs6G5I21K3SjZma6nH9eFIJAMcmRpxpi6IFBB7ghk/Aa9uDQ==;EndpointSuffix=core.windows.net</string>
+    <string name="azure_storage_base_url" translatable="false">https://devrecyclegridstorage.blob.core.windows.net</string>
+    <string name="facebook_app_id" translatable="false">730012130432963</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb730012130432963</string>
+</resources>

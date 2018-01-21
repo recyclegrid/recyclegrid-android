@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_in_select_venue">Select recycle venue</string>
+    <string name="check_in_notification_title">%1$s recycled in</string>
+    <string name="check_in_notification_content">%1$s recycled in %2$s at %3$s</string>
+    <string name="check_in_comment">What you\'re up to...</string>
+    <string name="check_in_button_label">Recycle In</string>
+</resources>

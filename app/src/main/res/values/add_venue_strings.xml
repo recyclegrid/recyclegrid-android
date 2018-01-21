@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="submit_venue">Add</string>
+    <string name="venue_address">Address</string>
+    <string name="accepted_material">Accepts:</string>
+    <string name="accept_batteries">Batteries</string>
+    <string name="accept_plastic">Plastic</string>
+    <string name="prompt_mark_on_map">Set pin on the map</string>
+    <string name="error_input_city">Select city</string>
+    <string name="error_input_address">Please enter address</string>
+    <string name="error_input_name">Please enter venue name</string>
+</resources>

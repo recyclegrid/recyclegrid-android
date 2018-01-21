@@ -1,0 +1,12 @@
+<resources>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_invalid_password">Password is too short</string>
+    <string name="error_incorrect_password">Invalid email or password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="signin_prompt">Please sign in to proceed</string>
+    <string name="title_activity_login">Sign In</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="submit_venue">Додати</string>
+    <string name="venue_address">Адреса</string>
+    <string name="accepted_material">Тут приймають:</string>
+    <string name="accept_batteries">Батарейки</string>
+    <string name="accept_plastic">Пластик</string>
+    <string name="prompt_mark_on_map">Вкажіть місце на карті</string>
+    <string name="error_input_city">Вкажіть місто</string>
+    <string name="error_input_address">Вкажіть адресу</string>
+    <string name="error_input_name">Вкажіть назву</string>
+</resources>

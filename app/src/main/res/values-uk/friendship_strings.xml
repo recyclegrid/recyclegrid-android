@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="friend_request_sent">Запит на дружбу відправлено</string>
+    <string name="friend_request_notification_title_template">%1$s надіслав запит на дружбу</string>
+    <string name="friend_request_notification_content">Натисніть щоб переглянути усі запиити на дружбу</string>
+    <string name="friend_request_accepted_notification_title_template">%1$s прийняв Ваш запит на дружбу</string>
+    <string name="friend_request_accepted_notification_content">Натисніть щоб переглянути список друзів</string>
+    <string name="friend_request_count">Запити: %1$d</string>
+    <string name="friend_count">Друзів: %1$d</string>
+    <string name="no_friends_label">Знайти друзів</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="friend_request_sent">Friend request sent</string>
+    <string name="friend_request_notification_title_template">%1$s want to be your friend</string>
+    <string name="friend_request_notification_content">Tap to view friend requests</string>
+    <string name="friend_request_accepted_notification_title_template">%1$s accepted your friend request</string>
+    <string name="friend_request_accepted_notification_content">Tap to open friends list</string>
+    <string name="friend_request_count">Requests: %1$d</string>
+    <string name="friend_count">Friends: %1$d</string>
+    <string name="no_friends_label">Find friends</string>
+</resources>

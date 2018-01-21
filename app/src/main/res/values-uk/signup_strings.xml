@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_signup_email">Електронна пошта</string>
+    <string name="prompt_signup_full_name">Ім\'я та прізвище</string>
+    <string name="prompt_signup_password">Пароль</string>
+    <string name="action_signup">Зареєструватися</string>
+    <string name="action_signup_short">Зареєструватися</string>
+    <string name="error_signup_invalid_email">Невірна електронна пошта</string>
+    <string name="error_signup_invalid_password">Пароль надто короткий</string>
+    <string name="error_signup_incorrect_password">Пароль невірний</string>
+    <string name="error_signup_field_required">Необхідно заповнити</string>
+    <string name="login_via_facebook">Увійти через Facebook</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+</resources>
